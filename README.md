@@ -34,8 +34,8 @@ If there are any problems, they likely arise when trying to install rstan, so th
 
 This is subject to change. I will seek input and try to accommodate digression where there is interest. Roughly, the first half of the course jumps right in with applied examples, then steps back to cover some of the theory behind Bayesian methods before going carefully through another applied case study. 
 
-### Wednesday, February 8
-1. **Basic Bayes** 9:00am - 12:00pm
+### Thursday, February 6
+1. **Basic Bayes** 9:00am - 11:00am, 12:00pm-1:00pm
 	- Bayes formula
 	- Likelihoods, Priors, and Posteriors
 	- Radon, it's everywhere
@@ -50,8 +50,7 @@ This is subject to change. I will seek input and try to accommodate digression w
     - Model checking
 
  
-### Thursday, January 9
-
+### Thursday, February 13
 3. **The Bayesian Workflow**  9:00am - 12:00pm
     - Prior predictive checks
     - Iterating models
